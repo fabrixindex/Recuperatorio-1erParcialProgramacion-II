@@ -63,12 +63,6 @@ nivel de batería (entero entre 0 y 100). Cada tipo agrega un atributo propio, s
 
 ## Diseño
 
-### Diagrama de clases
-
-El diagrama completo, realizado con **UMLetino**, se encuentra en [`/docs`](docs/).
-
-![Diagrama de clases](docs/diagrama-clases.png)
-
 ### Jerarquía
 
 ```
